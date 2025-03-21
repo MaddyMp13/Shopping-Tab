@@ -1,0 +1,106 @@
+[
+    {
+        "men": [
+            {
+                "special": "Wedding Special",
+                "cloth": "Mens Kurta",
+                "price": "Rs 1199",
+                "originalPrice": "Rs 1299.00",
+                "offer": "50% Off",
+                "image": "https://plus.unsplash.com/premium_photo-1661326297568-65045688d10a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bWVucyUyMGNsb3RoaW5nfGVufDB8fDB8fHww"
+            },
+            {
+                "special": "Weekend Special",
+                "cloth": "Casual Ware",
+                "price": "Rs 1799",
+                "originalPrice": "Rs 3500.00",
+                "offer": "50% Off",
+                "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT93UQz0OVOvKf_lyVnqBUCbNAandxBcdnxqb62j2SJXetstFWZTYhE0AwFN5oGUxyu4TSln5bM-QMD7aSXZZ-GcXz57evZ1C808DYBeuGys-P-hol_kVeJcw"
+            },
+            {
+                "special": "Office Special",
+                "cloth": "Formal Ware",
+                "price": "Rs 799",
+                "originalPrice": "Rs 1599.00",
+                "offer": "50% Off",
+                "image": "https://www.menswearr.com/cdn/shop/files/spring-work-place-outfits-for-men-1.jpg"
+            },
+            {
+                "special": "Holiday",
+                "cloth": "Summer Ware",
+                "price": "Rs 1099",
+                "originalPrice": "Rs 2199.00",
+                "offer": "50% Off",
+                "image": "https://images.bewakoof.com/uploads/grid/app/Best-Casual-Summer-Outfit-for-Men-bewakoof-blog-10-1619415036.jpg"
+            }
+        ],
+        "women": [
+            {
+                "special": "Wedding Special",
+                "cloth": "Womens Kurta",
+                "price": "Rs 1199",
+                "originalPrice": "Rs 1299.00",
+                "offer": "50% Off",
+                "image": "https://5.imimg.com/data5/ECOM/Default/2024/4/406042867/ZY/GY/BX/53935597/6952924563-500x500.jpg"
+            },
+            {
+                "special": "Weekend Special",
+                "cloth": "GRECIILOOKS Co",
+                "price": "Rs 1599",
+                "originalPrice": "Rs 3199.00",
+                "offer": "50% Off",
+                "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQLddqraxQTztDFXa2rt8t4q_pag_6puR4BQx6kE8tVCRKgYeayeHBoV4FKMeUkbILVhzRWmW1a7Vd6U76K29Nc8LTIWiW8eO9hR52bgxoBYCz8rohE8XYh"
+            },
+            {
+                "special": "Office Special",
+                "cloth": "Comfy Fabulous",
+                "price": "Rs 499",
+                "originalPrice": "Rs 999.00",
+                "offer": "50% Off",
+                "image": "https://images.meesho.com/images/products/234388776/z68mk_1200.jpg"
+            },
+            {
+                "special": "Holiday ",
+                "cloth": "holiday ware",
+                "price": "Rs 399",
+                "originalPrice": "Rs 799.00",
+                "offer": "50% Off",
+                "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSObC7_Zk9NaLe8b5K4pnFxPoPNgztf20ryHgYR96l_VSCEPa4wX2JMnd9GgBwX9ZrtA9Q_2BW1pEpygur_tfgO3Ti94dVsZPXUoGOdc3s"
+            }
+        ],
+        "kids": [
+            {
+                "special": "kids Traditional",
+                "cloth": "kids Kurta",
+                "price": "Rs 999",
+                "originalPrice": "Rs 1999.00",
+                "offer": "50% Off",
+                "image": "https://images.meesho.com/images/products/460544217/x29yl_512.webp"
+            },
+            {
+                "special": "Kids Special",
+                "cloth": "kids Collectionkids Collection",
+                "price": "Rs 1199",
+                "originalPrice": "Rs 1299.00",
+                "offer": "50% Off",
+                "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTyEiy0ItHiTwvr8jYtzMFWx564f-gufIlV2s-qzkIzBm5omdjFeXff9uupVxJD7JU9ObZUFgmkBYES_DSMy9M4Y2lH7dmRBcNVUEYE6bvTEoQnvFe-Vczk"
+            },
+            {
+                "special": "kids Special",
+                "cloth": "kids Collection",
+                "price": "Rs 1199",
+                "originalPrice": "Rs 1299.00",
+                "offer": "50% Off",
+                "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSpyMhx2Ur1LqqtBi1reBeSHVo3V1rHsSsRhd6113Nm63MK3SioxfjcnggpvsgpFDhbz99fG7hYy0i7cWV-tFMDhnwUYSTEIG_yyl1Znq4"
+            },
+            {
+                "special": "Kids Special",
+                "cloth": "kids Collection",
+                "price": "Rs 1199",
+                "originalPrice": "Rs 1299.00",
+                "offer": "50% Off",
+                "image": "https://images.unsplash.com/photo-1601925240970-98447486fcdb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8a2lkcyUyMGNsb3RoaW5nfGVufDB8fDB8fHww"
+            }
+        ]
+    }
+]

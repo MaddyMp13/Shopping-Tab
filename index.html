@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Tabs </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="main">
+        <div class="head_container">
+            <div class="heading">
+                <h1>Select Your Favourite Item</h1>
+            </div>
+            <div class="button">
+                <button id="selectedMen">MEN</button>
+                <button id="selectedWomen">WOMEN</button>
+                <button id="selectedKids">KIDS</button>
+            </div>
+        </div>
+
+        <div class="dynamic_container">
+            <div id="men" class="item item2"></div>
+            <div id="women" class="item item3"></div>
+            <div id="kids" class="item item4"></div>
+        </div>
+
+
+        <!-- Modal for Product Details -->
+        <div class="overlay-pop-up" id="overlayPop"></div>
+        <div class="modal" id="productModal">
+            <img id="modalImage" src="" alt="">
+            <h3 id="modalTitle"></h3>
+            <p id="modalPrice"></p>
+            <p id="modalOffer"></p>
+            <p id="modalSpecial"></p>
+            <button class="close-btn" id="closeModal"><i class="fa-solid fa-xmark"></i></button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+<script src="https://kit.fontawesome.com/8050759697.js" crossorigin="anonymous"></script>
+
+</html>
